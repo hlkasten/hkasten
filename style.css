@@ -107,7 +107,7 @@ li a {
 
 #main_image {
 	grid-column: 1/4;
-	background-image: url(images/paper-convert-hero-2.png);
+	background-image: url(WebDesign.png);
 	background-repeat: no-repeat;
 	width: 100%;
 	min-height: auto;
