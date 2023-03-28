@@ -311,4 +311,18 @@ li a {
 	width: 100%;
 	font-size: 16px;
 }
-	
+
+/*accent 1 light pink*/
+.accent1{
+	color: #fdf0eb
+}
+
+/*accent 2 Grey*/
+.accent2{
+	color: #5f5f5f
+}
+
+/*accent 3 dark pink*/
+.accent3{
+	color: #762140
+}
