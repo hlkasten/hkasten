@@ -324,5 +324,6 @@ li a {
 
 /*accent 3 dark pink*/
 .accent3{
-	color: #762140
+	background: #762140;
+	color: white;
 }
