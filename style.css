@@ -122,7 +122,7 @@ li a {
 
 #main_image-2 {
 	grid-column: 1/4;
-	background-image: url(conversation-started-hkasten.png);
+	background-image: url(conversation.png);
 	background-repeat: no-repeat;
 	width: 100%;
 	min-height: auto;
